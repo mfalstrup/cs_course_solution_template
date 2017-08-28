@@ -1,11 +1,9 @@
-﻿namespace Module01_CS
+﻿namespace Module09_ExceptionHandling
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

@@ -1,11 +1,9 @@
-﻿namespace Module01_CS
+﻿namespace Module12_Delegates
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

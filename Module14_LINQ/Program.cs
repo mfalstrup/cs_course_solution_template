@@ -1,11 +1,9 @@
-﻿namespace Module01_CS
+﻿namespace Module14_LINQ
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

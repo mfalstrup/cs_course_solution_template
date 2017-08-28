@@ -1,11 +1,9 @@
-﻿namespace Module01_CS
+﻿namespace Module04_ReferenceTypes
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

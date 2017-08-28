@@ -1,11 +1,9 @@
-﻿namespace Module01_CS
+﻿namespace Module10_Interfaces
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
