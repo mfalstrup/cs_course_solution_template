@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Instructor\A02_HelloWorld\A02_HelloWorld.cs" />
+    <Compile Include="Instructor\A03\A03_Variabler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Instructor\A02_HelloWorld\readme.txt" />
+    <Content Include="Instructor\A03\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

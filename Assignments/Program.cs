@@ -13,6 +13,7 @@ namespace Assignments
         static void Main(string[] args)
         {
             A02_HelloWorld.Run();
+            A03_Variabler.Run();
 
         }
     }
