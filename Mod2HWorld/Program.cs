@@ -14,6 +14,14 @@ namespace Mod2HWorld
             String navn = Console.ReadLine();
             Console.WriteLine("Velkommen " + navn.ToUpper());
             Console.ReadKey();
+
+            if (System.Diagnostics.Debugger.IsAttached)
+            {
+                System.Console.Write("Press any key to continue . . . ");
+                System.Console.ReadKey();
+            }
+
         }
+
     }
 }
