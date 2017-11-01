@@ -10,6 +10,7 @@ namespace Mod2HWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Indtast navn!");
             String navn = Console.ReadLine();
             Console.WriteLine("Velkommen " + navn.ToUpper());
             Console.ReadKey();
