@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod2HWorld", "Mod2HWorld\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3Variabler", "Mod3Variabler\Mod3Variabler.csproj", "{5CF12D3C-F4C7-4CA9-A1DE-A4EC2909D348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod4Arrays", "Mod4Arrays\Mod4Arrays.csproj", "{B72824A3-99B3-4852-9E2D-068BEF189CF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{5CF12D3C-F4C7-4CA9-A1DE-A4EC2909D348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF12D3C-F4C7-4CA9-A1DE-A4EC2909D348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF12D3C-F4C7-4CA9-A1DE-A4EC2909D348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72824A3-99B3-4852-9E2D-068BEF189CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72824A3-99B3-4852-9E2D-068BEF189CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72824A3-99B3-4852-9E2D-068BEF189CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72824A3-99B3-4852-9E2D-068BEF189CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -130,6 +136,7 @@ Global
 		{76322B76-8542-4732-B944-23F75E811409} = {614BAE00-84EB-47BC-8C41-71B6E2131A8C}
 		{24AD3F7C-9CA8-44D3-B927-423B23C610D5} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{5CF12D3C-F4C7-4CA9-A1DE-A4EC2909D348} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{B72824A3-99B3-4852-9E2D-068BEF189CF6} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}

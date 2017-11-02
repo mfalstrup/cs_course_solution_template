@@ -53,20 +53,9 @@ namespace Mod3Variabler
             p.Navn = "Mikkel";
             Console.WriteLine(p.Navn + " " + p.Id);
 
+            Console.WriteLine();
 
             Console.ReadKey();
         }
-    }
-    enum FilTyper
-    {
-        csv,
-        pdf,
-        txt
-    };
-
-    struct Person
-    {
-        public int Id;
-        public string Navn;
     }
 }
