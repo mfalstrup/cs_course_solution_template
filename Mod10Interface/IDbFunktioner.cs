@@ -6,5 +6,11 @@
         {
             void Gem();
         }
+
+        public int MyProperty { get; set; }
+        class MyClass
+        {
+
+        }
     }
 }
