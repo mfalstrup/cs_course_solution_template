@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{11632DC1-CDD8-4F40-A616-88A2A3D922C1}</ProjectGuid>
+    <ProjectGuid>{FF2B35B5-C487-4E09-B843-0B93CDCD240B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BilApp.Bil</RootNamespace>
-    <AssemblyName>BilApp.Bil</AssemblyName>
+    <RootNamespace>Mod11Collection</RootNamespace>
+    <AssemblyName>Mod11Collection</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,15 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bil.cs" />
-    <Compile Include="LastBil.cs" />
-    <Compile Include="PersonBil.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
